@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/asistent0/nodejs-lesson-8/issues"
   },
-  "homepage": "https://github.com/asistent0/nodejs-lesson-8#readme"
+  "homepage": "https://github.com/asistent0/nodejs-lesson-8#readme",
+  "dependencies": {
+    "formidable": "^1.0.17"
+  }
 }
